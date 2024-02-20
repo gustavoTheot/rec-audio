@@ -1,6 +1,6 @@
 # Rec Audio 🎙️
 
-O Rec audio nada mais é do que um simples gravador de audio web, onde através do seu navegador web é possível realizar gravações de audio.
+O Rec audio nada mais é do que um simples gravador de audio web, onde através do seu navegador web é possível realizar suas gravações
 
 ## Executando a Aplicação 📦
 
